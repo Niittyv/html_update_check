@@ -7,7 +7,7 @@ Change the url in pw.py file to your destination webpage url.
 
 The comparison result will be written into txt-file.
 
-First run <python pw.py> and after that run <python compare.py "base.html" "remote.html">. Alternatively just double click run.cmd file on a Windows machine.
+First run < python pw.py > and after that run < python compare.py "base.html" "remote.html" >. Alternatively just double click run.cmd file on a Windows machine.
 
 
 
